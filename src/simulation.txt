@@ -1,0 +1,104 @@
+Tower says: Baloon#B1(1) registered to weather tower.
+Tower says: Baloon#B2(2) registered to weather tower.
+Tower says: JetPlane#J1(3)) registered to weather tower
+Tower says: Helicopter#H1(4) registered to weather tower.
+Tower says: Helicopter#H2(5) registered to weather tower.
+Tower says: Helicopter#H3(6) registered to weather tower.
+Tower says: Baloon#B3(7) registered to weather tower.
+Tower says: JetPlane#J2(8)) registered to weather tower
+Tower says: Helicopter#H4(9) registered to weather tower.
+Baloon#B1(1): got FOGified seriously.
+Baloon#B2(2): got FOGified seriously.
+JetPlane#J1(3): got SNOWified seriously.
+Helicopter#H1(4): got SNOWified seriously.
+Helicopter#H2(5): got SNOWified seriously.
+Helicopter#H3(6): got SNOWified seriously.
+Baloon#B3(7): got SNOWified seriously.
+JetPlane#J2(8): got SNOWified seriously.
+Helicopter#H4(9): got SNOWified seriously.
+Baloon#B1(1): got FOGified seriously.
+Baloon#B2(2): got FOGified seriously.
+JetPlane#J1(3): got SNOWified seriously.
+Helicopter#H1(4): got SNOWified seriously.
+Helicopter#H1(4): landing.
+Tower says: Helicopter#H1(4) unregistered from weather tower.
+Helicopter#H3(6): got SNOWified seriously.
+Baloon#B3(7): got SNOWified seriously.
+JetPlane#J2(8): got SNOWified seriously.
+Helicopter#H4(9): got SNOWified seriously.
+Baloon#B1(1): got FOGified seriously.
+Baloon#B2(2): got FOGified seriously.
+JetPlane#J1(3): got SNOWified seriously.
+Helicopter#H2(5): got SNOWified seriously.
+Helicopter#H3(6): got SNOWified seriously.
+Baloon#B3(7): got SUNified seriously.
+JetPlane#J2(8): got SNOWified seriously.
+Helicopter#H4(9): got SNOWified seriously.
+Baloon#B1(1): got FOGified seriously.
+Baloon#B2(2): got FOGified seriously.
+JetPlane#J1(3): got SNOWified seriously.
+Helicopter#H2(5): got SNOWified seriously.
+Helicopter#H3(6): got SNOWified seriously.
+Baloon#B3(7): got SNOWified seriously.
+Baloon#B3(7): landing.
+Tower says: Baloon#B3(7) unregistered from weather tower.
+Helicopter#H4(9): got SNOWified seriously.
+Baloon#B1(1): got FOGified seriously.
+Baloon#B2(2): got FOGified seriously.
+JetPlane#J1(3): got SUNified seriously.
+Helicopter#H2(5): got SNOWified seriously.
+Helicopter#H2(5): landing.
+Tower says: Helicopter#H2(5) unregistered from weather tower.
+JetPlane#J2(8): got SNOWified seriously.
+Helicopter#H4(9): got SNOWified seriously.
+Helicopter#H4(9): landing.
+Tower says: Helicopter#H4(9) unregistered from weather tower.
+Baloon#B1(1): got RAINified seriously.
+Baloon#B1(1): landing.
+Tower says: Baloon#B1(1) unregistered from weather tower.
+JetPlane#J1(3): got SNOWified seriously.
+JetPlane#J1(3): landing.
+Tower says: JetPlane#J1(3) unregistered from weather tower.
+JetPlane#J2(8): got SNOWified seriously.
+Baloon#B2(2): got FOGified seriously.
+Helicopter#H3(6): got SNOWified seriously.
+JetPlane#J2(8): got SNOWified seriously.
+Baloon#B2(2): got FOGified seriously.
+Helicopter#H3(6): got SNOWified seriously.
+JetPlane#J2(8): got SNOWified seriously.
+Baloon#B2(2): got FOGified seriously.
+Helicopter#H3(6): got SNOWified seriously.
+JetPlane#J2(8): got SNOWified seriously.
+Baloon#B2(2): got FOGified seriously.
+Helicopter#H3(6): got SNOWified seriously.
+JetPlane#J2(8): got SNOWified seriously.
+Baloon#B2(2): got FOGified seriously.
+Helicopter#H3(6): got SUNified seriously.
+JetPlane#J2(8): got SNOWified seriously.
+Baloon#B2(2): got FOGified seriously.
+Helicopter#H3(6): got SUNified seriously.
+JetPlane#J2(8): got SNOWified seriously.
+Baloon#B2(2): got FOGified seriously.
+Helicopter#H3(6): got SNOWified seriously.
+Helicopter#H3(6): landing.
+Tower says: Helicopter#H3(6) unregistered from weather tower.
+Baloon#B2(2): got FOGified seriously.
+JetPlane#J2(8): got SNOWified seriously.
+Baloon#B2(2): got FOGified seriously.
+JetPlane#J2(8): got SNOWified seriously.
+Baloon#B2(2): got FOGified seriously.
+JetPlane#J2(8): got SNOWified seriously.
+Baloon#B2(2): got FOGified seriously.
+JetPlane#J2(8): got SUNified seriously.
+Baloon#B2(2): got FOGified seriously.
+JetPlane#J2(8): got SUNified seriously.
+Baloon#B2(2): got FOGified seriously.
+JetPlane#J2(8): got SNOWified seriously.
+JetPlane#J2(8): landing.
+Tower says: JetPlane#J2(8) unregistered from weather tower.
+Baloon#B2(2): got FOGified seriously.
+Baloon#B2(2): got FOGified seriously.
+Baloon#B2(2): got FOGified seriously.
+Baloon#B2(2): got RAINified seriously.
+Baloon#B2(2): landing.
+Tower says: Baloon#B2(2) unregistered from weather tower.
